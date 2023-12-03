@@ -28,10 +28,11 @@ For all analyses, the following Python libraries were used:numpy, pandas, matplo
 # 5. Results, Interpretation and Conclusion
 
 Though much of the analysis carried out is descriptive, the results are nevertheless sufficient to address the questions asked. 
-5.1 For the first question, the weighted average item cost price per mall was found to be roughly the same 
-	 across malls at around 842. So, based on the quantity of goods sold, the Mall of Istanbul would be found to be the best location 
-	 with most sold units making up about 20.1% of all units, with Kanyon close behind at 19.9%. 
-  	 ![Proportion_of_Units_Sold_per_Mall](https://github.com/BrianMekiSCA/BrianMekiSCA.github.io/assets/53751214/519f6c74-a686-4e60-b94f-23450dbe7931)
+
+5.1 For the first question, the weighted average item cost price per mall was found to be roughly the same across malls at around 842. 
+So, based on the quantity of goods sold, the Mall of Istanbul would be found to be the best location with most sold units making up 
+about 20.1% of all units, with Kanyon close behind at 19.9%. 
+![Proportion_of_Units_Sold_per_Mall](https://github.com/BrianMekiSCA/BrianMekiSCA.github.io/assets/53751214/519f6c74-a686-4e60-b94f-23450dbe7931)
 	 
 5.2 The product categories to invest in once the shop is located in the Mall of Istanbul include Clothing, Cosmetics and Food&Beverage. This is because these three categories 
 result in approximately 65% of all products sold with each claiming 35%, 15% and 15% respectively. 
